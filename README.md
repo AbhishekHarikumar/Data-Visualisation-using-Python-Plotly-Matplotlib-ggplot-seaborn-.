@@ -1,4 +1,4 @@
-# Data-Visualisation-using-Python-Plotly-Matplotlib-ggplot-seaborn-.
+# Data-Visualisation-using-Python-Plotly-Matplotlib-ggplot-seaborn.
 
 <h2 align="left">Executive Summary</h2>
 
