@@ -1,8 +1,5 @@
 # Data-Visualisation-using-Python-Plotly-Matplotlib-ggplot-seaborn-.
 
-
-<img width="1100" alt="Customer-Churn" src="https://github.com/user-attachments/assets/06b1aa82-3a07-42f8-8e2f-1cd9e36cce67">
-
 <h2 align="left">Executive Summary</h2>
 
 <p align="justify">Designed Dashboards for a wide range of business case problems, effectively communicating key insights, pain points to a wide range of audiences, to redefine strategies and optimize processes.</p>
@@ -17,6 +14,23 @@
 <h2 align="left">Tech Stack</h2>
 
 - plotly, seaborn, matplotlib
+
+<h2 align="left">Business Statement 1</h2>
+
+<p align="justify"> Customer Churn Insights - A company is experiencing challenges in effectively analysing churns across multiple states, payment methods, churn categories, . Needs a comprehensive and interactive dashboard that consolidates sales data from all locations, provides real- time updates, and enhances data accessibility to improve overall sales performance and inventory management.</p>
+
+<h2 align="left">Business Solution</h2>
+
+<p align="justify">- Created a comprehensive dashboard to track coffee sales across multiple
+locations using Power BI.</p>
+
+<p align="justify">- Implemented real-time data updates and interactive features, improving
+accessibility for stakeholders.</p>
+
+<p align="justify">- Analyzed sales data to identify opportunities for growth and optimize inventory
+management.</p>
+
+<img width="1100" alt="Customer-Churn" src="https://github.com/user-attachments/assets/06b1aa82-3a07-42f8-8e2f-1cd9e36cce67">
   
 <h2 align="left">References</h2>
 
