@@ -13,7 +13,7 @@
 
 <h2 align="left">Tech Stack</h2>
 
-- plotly, seaborn, matplotlib
+  - plotly, seaborn, matplotlib
 
 <h2 align="left">Business Statement 1</h2>
 
