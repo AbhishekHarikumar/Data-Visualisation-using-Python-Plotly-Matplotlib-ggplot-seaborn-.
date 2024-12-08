@@ -19,7 +19,7 @@
 
 <p align="justify"> Customer Churn Insights - A company is experiencing challenges in effectively analysing churns across multiple states, payment methods, churn categories, tenure etc. Needs a comprehensive and interactive dashboard that consolidates data from all states,categories and tenures to  provide real- time updates, and enhances data accessibility to improve overall churn analysis.</p>
 
-<h2 align="left">Business Solution</h2>
+<h2 align="left">Business Solution 1</h2>
 
 <p align="justify">- Created a comprehensive dashboard to track churns across multiple
 states using plotly.</p>
