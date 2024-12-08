@@ -17,18 +17,15 @@
 
 <h2 align="left">Business Statement 1</h2>
 
-<p align="justify"> Customer Churn Insights - A company is experiencing challenges in effectively analysing churns across multiple states, payment methods, churn categories, . Needs a comprehensive and interactive dashboard that consolidates sales data from all locations, provides real- time updates, and enhances data accessibility to improve overall sales performance and inventory management.</p>
+<p align="justify"> Customer Churn Insights - A company is experiencing challenges in effectively analysing churns across multiple states, payment methods, churn categories, tenure etc. Needs a comprehensive and interactive dashboard that consolidates data from all states,categories and tenures to  provide real- time updates, and enhances data accessibility to improve overall churn analysis.</p>
 
 <h2 align="left">Business Solution</h2>
 
-<p align="justify">- Created a comprehensive dashboard to track coffee sales across multiple
-locations using Power BI.</p>
+<p align="justify">- Created a comprehensive dashboard to track churns across multiple
+states using plotly.</p>
 
-<p align="justify">- Implemented real-time data updates and interactive features, improving
+<p align="justify">- Implemented real-time data updates and interactive functionality, improving
 accessibility for stakeholders.</p>
-
-<p align="justify">- Analyzed sales data to identify opportunities for growth and optimize inventory
-management.</p>
 
 <img width="1100" alt="Customer-Churn" src="https://github.com/user-attachments/assets/06b1aa82-3a07-42f8-8e2f-1cd9e36cce67">
   
